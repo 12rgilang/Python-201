@@ -14,3 +14,4 @@
 # if you want to add new line with tab in it this the syntax
 with open('new_files.txt', 'a') as file:
     file.write("\n\tThis line tabbed")
+..
